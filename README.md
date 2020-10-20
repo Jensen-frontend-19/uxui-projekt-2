@@ -18,7 +18,24 @@ För VG:
 
 
 ### Designsystem
-*Kommer till nästa lektion.*
+Tänk dig att någon ska använda din styleguide till att bygga en helt ny app. För att få appar med olika utseende behöver man uppfinna nya komponenter och designelement, som skiljer sig från originalet; samtidigt som man behåller igenkänningsfaktorn. Det kan vi göra genom att berätta:
+1. hur vi tänkt när vi designar UI-element
+2. vilka principer som varit vägledande
+3. vad vi vill att den som implementerar vår design ska tänka på
+
+Börja med att läsa om designsystem på nätet, gärna de vi pratat om på lektionen. Du får inspireras av existerande designsystem, men inte kopiera texter rakt av.
+
+Din uppgift:
+
++ Skriv ner tre *värderingar* som den som använder styleguiden ska följa
+
+För VG:
++ Ge ett exempel för varje värdering: både bild och förklarande text
+
+Skriv detta i din Figma-skiss.
+
+För VG ska det vara genomtänkt och välformulerat.
+
 
 ### Inlämning
 1. Skapa en textfil med namnet: `inlämning-styleguide-Anna-Andersson-FRK19G.txt`. (DOC, RTF, PDF osv. är inte ok, det ska vara TXT)
